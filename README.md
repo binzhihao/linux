@@ -1,5 +1,5 @@
 linux
 =====
 
-This is an old version of linux, modified by DcBean.
+This is an old version of linux.
 The version is 0.11.
